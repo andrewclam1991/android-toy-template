@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">toytemplate</string>
+    <string name="make_tea_btn">Make Tea</string>
+    <string name="make_coffee_btn">Make Coffee</string>
+</resources>
